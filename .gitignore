@@ -1,0 +1,7 @@
+master.key
+salt.bin
+vault.json
+venv/
+.env
+vault_backups/
+vault_recovery*
